@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Apoorva S P</h1>
-<h3 align="center">A software developer from India 🇮🇳</h3>
+<h3 align="center">Looking for software developer role</h3>
 
 <p align="center">
   <a href="https://github.com/Apoorvapsp2000">
